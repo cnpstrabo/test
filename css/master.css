@@ -1,0 +1,57 @@
+body	{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	
+	color: white;
+	background-color: #1e1e4b;
+	
+	font-family: sans-serif;
+}
+
+div	{
+	padding: 1em;
+}
+
+#TitlePane	{
+	border: 4px solid #6666cc;
+	border-left: none;
+	border-right: none;
+	background-color: #0000cc;
+	color: white;
+}
+
+h1#Title	{
+	margin-top: 0.5em;
+	text-align: center;
+	font-size: 18pt;
+	display: inline;
+}
+
+h2#Tagline	{
+	text-align: center;
+	margin-left: 1em;
+	font-size: 12pt;
+	font-style: oblique;
+	color: #999999;
+	display: inline;
+}
+
+#Content	{
+	background-color: #b3b3e6;
+	color: black;
+	margin: 2em;
+}
+
+#Story	{
+	font-style: oblique;
+	margin: auto;
+	width: 600px;
+}
+
+.dramatic	{
+	text-align: center;
+	font-family: serif;
+	font-size: 18pt;
+	color: #666666;
+}
